@@ -1,0 +1,7 @@
+{
+  "name": "superlogica-checkin",
+  "short_name": "superlogica-checkin",
+  "description": "Resgistro de visitantes Superlógica",
+  "start_url": "/",
+  "display": "standalone"
+}
