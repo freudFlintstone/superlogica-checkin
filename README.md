@@ -1,2 +1,2 @@
 # superlogica-checkin
-Resgistrar visitantes da superlógica
+Registrar visitantes da superlógica
